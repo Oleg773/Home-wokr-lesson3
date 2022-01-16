@@ -1,0 +1,51 @@
+.rename{
+    background: blue;
+    width: 700px;
+    height: 200px;
+    text-align: center;
+    margin-left: 400px;
+    border: 2px solid black;
+}
+
+.box{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.zxc{
+    width: 200px;
+    height: 200px;
+    background: blue;
+    border: 7px solid black;
+    margin-top: 10px;
+    margin-right: 10px;
+}
+
+.qwe{
+    width: 200px;
+    height: 200px;
+    background: blue;
+    margin-top: 10px;
+    border: 7px solid black;
+    margin-right: 10px;
+}
+
+.asd{
+    width: 200px;
+    height: 200px;
+    background: blue;
+    margin-top: 10px;
+    border: 7px solid black;
+    margin-right: 10px;
+}
+
+.cont{
+    background: blue;
+    width: 700px;
+    height: 400px;
+    text-align: center;
+    margin-left: 400px;
+    border: 2px solid black;
+    margin-top: 10px;
+}
